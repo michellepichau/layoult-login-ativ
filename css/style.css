@@ -1,0 +1,39 @@
+body {
+    font-family: Hand, sans-serif;
+    display: flex;
+}
+
+.margem {
+    padding-top: 100px;
+    padding-bottom: 200px;
+    padding-left: 100px;
+    line-height: 1.6;
+    letter-spacing: 1px;
+}
+
+.title {
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+
+.sub {
+    color: rgba(110, 126, 126, 0.701);
+    font-size: small;
+}
+
+.bloco {
+    color: rgba(110, 126, 126, 0.701);
+    border: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 7px;
+}
+
+.butom {
+    border-radius: 4px;
+    padding: 4px;
+    width: 82px;
+    color: white;
+    background-color: rgb(43, 226, 211);
+    margin-bottom: 16px;
+}
